@@ -31,7 +31,7 @@ param_grid = {
 }
 
 
-### 🧠 <u>TUNE WITH GRIDSEARCHCV</u>
+`### 🧠 <u>TUNE WITH GRIDSEARCHCV</u>
 - Use `GridSearchCV` with **RandomForestClassifier** to find the best parameter combination
 
 ### 🏆 <u>EVALUATE THE BEST MODEL</u>
@@ -61,7 +61,5 @@ param_grid = {
 - Best hyperparameters for the model  
 - Accuracy and evaluation metrics on the test set  
 - (Optional) Feature importance or confusion matrix
-
----
 
 ---

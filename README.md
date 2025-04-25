@@ -1,4 +1,3 @@
-```markdown
 # 🧠 HYPERPARAMETER TUNING — RANDOM FOREST ON IRIS DATASET
 
 ## <u>PROJECT OVERVIEW</u> 📌
@@ -30,7 +29,7 @@ param_grid = {
   'max_depth': [3, 5, 10],
   'min_samples_split': [2, 5, 10]
 }
-```
+
 
 ### 🧠 <u>TUNE WITH GRIDSEARCHCV</u>
 - Use `GridSearchCV` with **RandomForestClassifier** to find the best parameter combination
